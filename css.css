@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    height:100vh;
+}
+button{
+    width: 80px;
+    padding: 5px;
+}
+.A:hover{
+    background-color: lawngreen;
+    border-radius: 10px;
+ 
+}
+.B:hover{
+    background-color: aqua;
+    border-radius: 10px;
+}
+.C:hover{
+    background-color: lemonchiffon;
+    border-radius: 10px;
+}
+.D:hover{
+    background-color: lightcoral;
+    border-radius: 10px;
+}
+.E:hover{
+    background-color: lightskyblue;
+    border-radius: 10px;
+}
+.F:hover{
+    background-color: violet;
+    border-radius: 10px;
+}
+.G:hover{
+    background-color: lightpink;
+    border-radius: 10px;
+}
+.H:hover{
+    background-color: lightseagreen;
+    border-radius: 10px;
+}
+.I:hover{
+    background-color: brown;
+    border-radius: 10px;
+}
+.J:hover{
+    background-color: blueviolet;
+    border-radius: 10px;
+}
